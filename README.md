@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @KeriCarpenterProg
-- 👀 I’m just using this as a playground to test things out
-- 🌱 I’m practicing javascript, react and css.
-- 📫 How to reach me Keri Carpenter on LinkedIn.
-- I'm also a Senior Manager at Playstation
+- 👋 Hi, My name is Keri Carpenter.  On Github.com, I’m @KeriCarpenterProg.
+- 👀 I'm using this mostly as a scratch area to test things out as I'm learning.
+- 🌱 Currently, I'm diving into React, Javascript, HTML and CSS.
+- I'm also a Senior Manager of Software Engineering at Playstation
 
 <!---
 KeriCarpenterProg/KeriCarpenterProg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
